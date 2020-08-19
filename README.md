@@ -11,6 +11,8 @@
 对应的notebook为：
 
 + tools_numpy.ipynb
++ tools_pandas.ipynb
++ tools_matplotlib.ipynb
 
 
 

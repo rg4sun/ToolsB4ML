@@ -8,5 +8,9 @@
 + pandas
 + matplotlib
 
+对应的notebook为：
+
++ tools_numpy.ipynb
+
 
 

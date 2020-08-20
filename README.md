@@ -14,5 +14,13 @@
 + tools_pandas.ipynb
 + tools_matplotlib.ipynb
 
+建议的学习路径为：
+
+numpy => pandas => matplotlib
+
+or
+
+numpy => matplotlib => pandas
+
 
 
